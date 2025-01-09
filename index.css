@@ -1,0 +1,8 @@
+.wrapper {
+    display: flex;
+}
+
+button {
+    flex-wrap: wrap;
+    flex: 1 1 25%;
+}
