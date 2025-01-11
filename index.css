@@ -13,3 +13,15 @@ button {
     flex: 1 1 25%;
 }
 
+.display {
+    display: block;
+    width: 100%;
+    border: 2px solid grey;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    display: block;
+}
